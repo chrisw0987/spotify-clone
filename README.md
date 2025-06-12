@@ -1,12 +1,52 @@
-# React + Vite
+# 🎧 Spotify Clone (Frontend Only)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive Spotify-inspired music player built with **React.js** and **Tailwind CSS**. This is the **frontend portion** of the project, featuring album browsing, song playback, seek bar progress, and playlist interaction — all designed to simulate a real streaming experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎵 Browse Featured Charts & Trending Tracks  
+- 🖼️ Dynamic album cards with custom image covers  
+- ▶️ Play/pause songs and interact with media controls  
+- ⏱️ Real-time audio progress bar with duration tracking  
+- 🔄 Loop, shuffle, and queue icons (UI-only)  
+- ⚡ Responsive design using Tailwind CSS  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![Spotify Clone Preview](spotify-clone-preview.png)  
+
+---
+
+##  🌍 LIVE DEMO:
+- Try it Out: https://chrisw0987.github.io/spotify-clone/
+---
+
+## 🛠 Tech Stack
+**React** 
+**Tailwind CSS**
+**React Router DOM**
+**HTML5 `<audio>`** 
+
+---
+
+## 🚧 Backend Plan (Coming Soon)
+
+- User authentication (login/signup)  
+- Playlist saving & favoriting  
+- Music streaming from API/database  
+- Admin dashboard for adding songs  
+
+> _You're viewing the frontend-only version — backend integration is planned for future development.
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone this repo**
+   ```bash
+   git clone https://github.com/chrisw0987/spotify-clone.git
+   cd spotify-clone
